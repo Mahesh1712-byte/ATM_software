@@ -12,7 +12,7 @@ struct user{
 	int balance;
 	int deposit[10];
 	int withdraw[10];
-}user1={"vinay","443646",0};
+}user1={"Mahesh","443646",0};
 int d_i=0,w_i=0;
 void pinchange(){
 	printf("\n\t\tPlease enter your old pin");
